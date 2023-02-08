@@ -1,2 +1,2 @@
 #!/bin/bash
-0-current_working_directory=$(pwd) echo "The current working directory is: $(0-current_working_directory) "
+0x00-shell_basics=$(pwd) echo "The current working directory is: $(0x00-shell_basics)"
