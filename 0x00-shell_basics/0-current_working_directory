@@ -1,2 +1,2 @@
 #!/bin/bash
-cwd=$(pwd) echo "The current working directory is: $cwd "
+0-current_working_directory=$(pwd) echo "The current working directory is: $(0-current_working_directory) "
