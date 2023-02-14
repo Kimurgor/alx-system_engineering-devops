@@ -10,3 +10,4 @@
 10) Displaying the power of variables echo $(($BREATH**$LOVE))
 11) Converting a number from base to base echo $((2#$BINARY))
 12) Printing a combination of letters
+13) Printing a n.o with two decimal places and stored in a variable printf '%.2f\n' $NUM
