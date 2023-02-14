@@ -9,3 +9,4 @@
 9) Print sum of a number to a variable echo $((428+ $VARIABLE))
 10) Displaying the power of variables echo $(($BREATH**$LOVE))
 11) Converting a number from base to base echo $((2#$BINARY))
+12) Printing a combination of letters
