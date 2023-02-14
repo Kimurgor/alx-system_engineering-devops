@@ -7,3 +7,5 @@
 7) Created a local variable BEST="School"
 8) Created a global variable export BEST="School"
 9) Print sum of a number to a variable echo $((428+ $VARIABLE))
+10) Displaying the power of variables echo $(($BREATH**$LOVE))
+11) Converting a number from base to base echo $((2#$BINARY))
