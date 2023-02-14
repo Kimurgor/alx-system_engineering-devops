@@ -5,3 +5,4 @@
 5) Env command lists enviroment variables
 6) set lists local variables, environment variable and functions
 7) Created a local variable BEST="School"
+8) Created a global variable export BEST="School"
