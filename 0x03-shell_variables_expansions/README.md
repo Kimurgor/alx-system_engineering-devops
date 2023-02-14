@@ -4,3 +4,4 @@
 4) Counts the number of directories in path
 5) Env command lists enviroment variables
 6) set lists local variables, environment variable and functions
+7) Created a local variable BEST="School"
